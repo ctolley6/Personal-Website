@@ -3,4 +3,6 @@
 <header>Hi. I love my husband. He is a punk, but he is also super hot.</header>
 
 <body>This is super fun. I'm going to watch Gilmore Girls now.</body>
+
+<a href="https://www.thomsonreuters.com/en/articles/2014/tracking-gender-diversity-on-corporate-boards.html">About Diversity</a>
 </html>
